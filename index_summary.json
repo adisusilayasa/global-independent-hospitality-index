@@ -1,0 +1,129 @@
+{
+  "updated_at": "2026-11-22",
+  "total_venues": 107921,
+  "countries_count": 20,
+  "source_url": "https://loyalty.balianapp.com/guide/global-independent-hospitality-index-2026",
+  "publisher": "https://balianapp.com/",
+  "countries": [
+    {
+      "country": "Netherlands",
+      "slug": "netherlands",
+      "venues": 22054,
+      "website_adoption_pct": 99.0
+    },
+    {
+      "country": "United States",
+      "slug": "united-states",
+      "venues": 13920,
+      "website_adoption_pct": 98.5
+    },
+    {
+      "country": "Switzerland",
+      "slug": "switzerland",
+      "venues": 12007,
+      "website_adoption_pct": 97.8
+    },
+    {
+      "country": "Australia",
+      "slug": "australia",
+      "venues": 11120,
+      "website_adoption_pct": 96.1
+    },
+    {
+      "country": "United Kingdom",
+      "slug": "united-kingdom",
+      "venues": 9744,
+      "website_adoption_pct": 97.3
+    },
+    {
+      "country": "Japan",
+      "slug": "japan",
+      "venues": 8742,
+      "website_adoption_pct": 98.4
+    },
+    {
+      "country": "Canada",
+      "slug": "canada",
+      "venues": 4662,
+      "website_adoption_pct": 98.7
+    },
+    {
+      "country": "Indonesia",
+      "slug": "indonesia",
+      "venues": 3657,
+      "website_adoption_pct": 42.0
+    },
+    {
+      "country": "Ireland",
+      "slug": "ireland",
+      "venues": 3088,
+      "website_adoption_pct": 94.7
+    },
+    {
+      "country": "Taiwan",
+      "slug": "taiwan",
+      "venues": 2810,
+      "website_adoption_pct": 94.6
+    },
+    {
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "venues": 2754,
+      "website_adoption_pct": 95.0
+    },
+    {
+      "country": "China",
+      "slug": "china",
+      "venues": 2708,
+      "website_adoption_pct": 23.2
+    },
+    {
+      "country": "Thailand",
+      "slug": "thailand",
+      "venues": 2325,
+      "website_adoption_pct": 84.9
+    },
+    {
+      "country": "UAE",
+      "slug": "uae",
+      "venues": 1534,
+      "website_adoption_pct": 89.0
+    },
+    {
+      "country": "Philippines",
+      "slug": "philippines",
+      "venues": 1507,
+      "website_adoption_pct": 69.6
+    },
+    {
+      "country": "South Korea",
+      "slug": "south-korea",
+      "venues": 1477,
+      "website_adoption_pct": 93.7
+    },
+    {
+      "country": "Vietnam",
+      "slug": "vietnam",
+      "venues": 1350,
+      "website_adoption_pct": 85.3
+    },
+    {
+      "country": "Malaysia",
+      "slug": "malaysia",
+      "venues": 1291,
+      "website_adoption_pct": 91.3
+    },
+    {
+      "country": "Singapore",
+      "slug": "singapore",
+      "venues": 1129,
+      "website_adoption_pct": 97.9
+    },
+    {
+      "country": "Hong Kong",
+      "slug": "hong-kong",
+      "venues": 42,
+      "website_adoption_pct": 95.2
+    }
+  ]
+}
