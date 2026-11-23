@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22",
-  "total_venues": 107921,
+  "updated_at": "2026-11-23",
+  "total_venues": 107920,
   "countries_count": 20,
   "source_url": "https://loyalty.balianapp.com/guide/global-independent-hospitality-index-2026",
   "publisher": "https://balianapp.com/",
@@ -50,7 +50,7 @@
     {
       "country": "Indonesia",
       "slug": "indonesia",
-      "venues": 3657,
+      "venues": 3656,
       "website_adoption_pct": 42.0
     },
     {

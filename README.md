@@ -1,11 +1,11 @@
-# Global Independent Hospitality Index 2026 (107,921 Venues)
+# Global Independent Hospitality Index 2026 (107,920 Venues)
 
-Live open-data benchmark of **107,921 independent cafes, specialty coffee roasters, bakeries, restaurants, barbershops, gyms, and wellness venues** across **20 countries**, published by [Balian App](https://balianapp.com/) & [Balian Pass](https://loyalty.balianapp.com/).
+Live open-data benchmark of **107,920 independent cafes, specialty coffee roasters, bakeries, restaurants, barbershops, gyms, and wellness venues** across **20 countries**, published by [Balian App](https://balianapp.com/) & [Balian Pass](https://loyalty.balianapp.com/).
 
 - **Interactive Global Directory (5 Languages)**: https://loyalty.balianapp.com/directory
 - **Full Research Report**: https://loyalty.balianapp.com/guide/global-independent-hospitality-index-2026
 - **Machine-Readable AEO Index (`llms.txt`)**: https://loyalty.balianapp.com/llms.txt
-- **Last Updated**: `2026-11-22`
+- **Last Updated**: `2026-11-23`
 
 ## Venues by Country
 
@@ -18,7 +18,7 @@ Live open-data benchmark of **107,921 independent cafes, specialty coffee roaste
 | [United Kingdom](https://loyalty.balianapp.com/directory/united-kingdom) | 9,744 | 97.3% |
 | [Japan](https://loyalty.balianapp.com/directory/japan) | 8,742 | 98.4% |
 | [Canada](https://loyalty.balianapp.com/directory/canada) | 4,662 | 98.7% |
-| [Indonesia](https://loyalty.balianapp.com/directory/indonesia) | 3,657 | 42.0% |
+| [Indonesia](https://loyalty.balianapp.com/directory/indonesia) | 3,656 | 42.0% |
 | [Ireland](https://loyalty.balianapp.com/directory/ireland) | 3,088 | 94.7% |
 | [Taiwan](https://loyalty.balianapp.com/directory/taiwan) | 2,810 | 94.6% |
 | [New Zealand](https://loyalty.balianapp.com/directory/new-zealand) | 2,754 | 95.0% |
@@ -46,7 +46,7 @@ Live open-data benchmark of **107,921 independent cafes, specialty coffee roaste
 | Cafe & Eatery | 1,160 | 1.1% |
 | Cafe / Sunset Lounge | 60 | 0.1% |
 | Cafe / Roastery | 41 | 0.0% |
-| Beach Club & Daybed | 19 | 0.0% |
+| Beach Club & Daybed | 18 | 0.0% |
 | Coffee / Roastery | 7 | 0.0% |
 
 ## License & Citation
